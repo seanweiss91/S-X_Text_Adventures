@@ -28,3 +28,4 @@ Hero::Hero(std::string name, int health, int attack)
     this->power = 0;
 }
 
+// Testing this shit out
